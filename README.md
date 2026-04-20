@@ -20,7 +20,7 @@ The Smart CRM (Customer Relationship Management) System is a web-based applicati
 
 ### 🏠 Dashboard
 
-![image alt](
+![image alt](https://github.com/Jeethac/Smart-CRM-System/blob/49975aa8061a5407985a55031f9834d4658959bd/WhatsApp%20Image%202026-04-20%20at%209.24.45%20AM%20(3).jpeg)
 
 ### 📋 All Leads
 
