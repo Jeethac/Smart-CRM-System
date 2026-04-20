@@ -7,7 +7,6 @@
 The Smart CRM (Customer Relationship Management) System is a web-based application developed using Django. It is designed to help businesses manage customer data, track leads, and organize staff activities in a structured and efficient manner.
 
 ---
-https://github.com/Jeethac/Smart-CRM-System/blob/05b807f17134a99203602cfaddce979a4e6fe21d/WhatsApp%20Image%202026-04-20%20at%209.24.45%20AM%20(1).jpeg
 
 ## 🎯 2. Objective
 
